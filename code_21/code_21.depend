@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1377066539 source:c:\users\cqian1\documents\100\code_21\main.cpp
+	<iostream>
+	"include/minStack.h"
+
+1377066853 c:\users\cqian1\documents\100\code_21\include\minstack.h
+	<stack>
+	<limits.h>
+	<iostream>
+
+1377066884 source:c:\users\cqian1\documents\100\code_21\src\minstack.cpp
+	"../include/minStack.h"
+

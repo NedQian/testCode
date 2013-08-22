@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1376373027 source:c:\users\cqian1\documents\100\code_fastsort\main.cpp
+	<iostream>
+	"include/fastSort.h"
+
+1376370759 c:\users\cqian1\documents\100\code_fastsort\include\fastsort.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1376372988 source:c:\users\cqian1\documents\100\code_fastsort\src\fastsort.cpp
+	"../include/fastSort.h"
+
