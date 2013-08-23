@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1377264110 source:d:\code\cc_1.1\main.cpp
+	<iostream>
+	"1.1.h"
+
+1377264139 d:\code\cc_1.1\1.1.h
+	<iostream>
+
